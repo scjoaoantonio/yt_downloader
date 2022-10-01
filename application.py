@@ -1,4 +1,3 @@
-from distutils.cmd import Command
 from tkinter import *
 from tkinter import Tk, StringVar, ttk
 import youtube_dl
