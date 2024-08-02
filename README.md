@@ -13,6 +13,7 @@
 - v1 = First version, without the graphic part
 - starting screen = the first screen, will change yet
 - v2 = Program running with interface.
+- v3 = Update code with "yt_dlp"
 
 ### Info
 
