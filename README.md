@@ -14,6 +14,7 @@
 - starting screen = the first screen, will change yet
 - v2 = Program running with interface.
 - v3 = Update code with "yt_dlp"
+  = Progress bar addition
 
 ### Info
 
