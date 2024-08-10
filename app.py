@@ -13,7 +13,7 @@ def addlink():
     if len(link) > 0:
         lb_links.insert(END, link)
         vnovolink.delete(0, END)
-        error_label.config(text="Erro")
+        error_label.config(text="")
     else:
         error_label.config(text="O link não pode estar vazio.")
 
